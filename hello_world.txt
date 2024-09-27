@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adding some text for test
+=======
+
+>>>>>>> 1f9f8109113c84ddca966d87617374d4cb8358f3
